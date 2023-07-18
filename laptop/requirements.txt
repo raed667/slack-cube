@@ -1,0 +1,3 @@
+kaspersmicrobit==0.4.2
+slack-sdk==3.21.3
+decoratorOperations @ git+https://github.com/salesforce/decorator-operations@76e3225adae6aa02d5225cfc035587ef31e11cc7
