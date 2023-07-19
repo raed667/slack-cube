@@ -28,6 +28,8 @@ Plug your board using a USB port to the laptop and open [MakeCode](https://makec
 
 Then drag and drop the file `microbit/microbit-Slack-Cube.hex` into the editor window. This will import the project in its 3 forms (Blocks, Python and JavaScript). 
 
+![MakeCode](https://github.com/raed667/slack-cube/assets/1442690/3eac54d6-0483-410a-b9cd-6438a22da06a)
+
 Click "Download", to download the code into your micro:bit board and follow the instructions. 
 
 Finally disconnect the board from the laptop, place it into the cube and power it through the AAA batteries.
